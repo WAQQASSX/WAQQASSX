@@ -1,5 +1,5 @@
 ## 👋 Introduction
-I am a cybersecurity student in <strong> Bahrain Polytechnic </strong>, I am passionate about network security, penetration testing, software and web development, right now I deveolap my skilles using tryhackme website ,hackthebox website and codecademy website, my next step to be a full-stak-dev
+I am a cybersecurity student in <strong> Bahrain Polytechnic </strong>, I am passionate about network security, penetration testing, software and web development, right now I deveolap my skilles using tryhackme website, hackthebox website and codecademy website, my next step to be a full-stak-dev
 - 😄 Pronouns: <strong>He/Him/His</strong>
 
 ## 🛠️ Tools Use them continuously
