@@ -8,7 +8,7 @@ I am cybersecurity student in <strong> Bahrain Polytechnic </strong>, I am passi
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=WAQQASSX&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WAQQASSX&show_icons=true&theme=dark)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WAQQASSX&langs_count=8)
 <!---
 WAQQASSX/WAQQASSX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
