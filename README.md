@@ -1,18 +1,21 @@
-## 👋 Introduction
-I am cybersecurity student in <strong> Bahrain Polytechnic </strong>, I am passionate about network security, penetration testing, software and web development, right now I deveolap my skilles using tryhackme website, hackthebox website and codecademy website, my next step to be a full-stak-dev
-- 😄 Pronouns: <strong>He/Him/His</strong>
-
-## 🛠️ Tools Use them continuously
-<img src="https://img.shields.io/static/v1?label=&message=Adobe%20Photoshop&color=31A8FF&logo=adobe-photoshop&logoColor=white" /> <img src="https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=white" /> <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&logo=github&logoColor=white" />  <img src="https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=white" /> <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=F7DF1E&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/static/v1?label=&message=Octave&color=0081CB&logo=material-ui&logoColor=white" /> <img src="https://img.shields.io/static/v1?label=&message=Linux&color=525252&logo=max&logoColor=white" />  <img src="https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&color=007ACC&logo=visual-studio-code&logoColor=white" /> 
+# 💫 About Me:
+I'm currently learning Cyber Security at Bahrain Polytechnic <br>Also I study SOC at THM and Bug bounty at HTB 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=WAQQASSX&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WAQQASSX&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WAQQASSX&hide_progress=true&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/waqqassx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://bh.linkedin.com/in/waqqas-alsadoon-4a6018294) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@waqqassx) 
 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=waqqassx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=waqqassx&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=waqqassx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!---
-WAQQASSX/WAQQASSX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+[![](https://visitcount.itsvg.in/api?id=waqqassx&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
