@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently learning Cyber Security at Bahrain Polytechnic <br>Also I study SOC at THM and Bug bounty at HTB 
-
+I'm a Cybersecurity student at Bahrain Polytechnic, deeply interested in protecting digital spaces and creating user-friendly experiences. With skills in threat detection and front-end development, I enjoy finding practical solutions that make technology secure and accessible. I'm always excited to connect with others who share a passion for cybersecurity and innovative design.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/waqqassx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://bh.linkedin.com/in/waqqas-alsadoon-4a6018294) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@waqqassx) 
